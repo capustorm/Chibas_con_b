@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<application-state>
+  <context id="">
+    <application id="firefox_firefox.desktop" score="17" last-seen="1700718014"/>
+    <application id="org.gnome.Nautilus.desktop" score="0" last-seen="1700718035"/>
+    <application id="org.gnome.Terminal.desktop" score="939" last-seen="1700717969"/>
+    <application id="xdg-desktop-portal-gnome.desktop" score="0" last-seen="1700718011"/>
+    <application id="org.gnome.FileRoller.desktop" score="0" last-seen="1700718029"/>
+    <application id="snap-store_ubuntu-software-local-file.desktop" score="0" last-seen="1700718041"/>
+  </context>
+</application-state>
